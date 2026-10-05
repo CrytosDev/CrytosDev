@@ -1,1 +1,1 @@
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=CrytosDev)](https://github.com/stats-organization/github-stats-extended)
+![GitHub Contribution Calendar](https://ghchart.rshah.org/40c463/CrytosDev)
